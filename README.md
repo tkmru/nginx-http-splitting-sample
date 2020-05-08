@@ -1,5 +1,7 @@
 # Nginx HTTP response splitting sample app
 
+There is a vulnerability in Nginx that can be caused by misconfiguration. One of them is `HTTP response splitting`.
+
 ![top](./screenshots/top.png)
 
 ```
